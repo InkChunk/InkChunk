@@ -7,4 +7,3 @@ I hope i can learn a lot from GitHub and help to build a better world.
 -Mail
 I only have a private mail and i do not want to publish it.
 But if it's necessary,contact me with {There may be a email in the future}.
-
